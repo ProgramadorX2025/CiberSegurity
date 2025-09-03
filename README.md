@@ -1,2 +1,2 @@
 # CiberSegurity
-Realzacion en el Diplomado UniLibreBQ
+Realizacion del Diplomado UniLibreBQ
